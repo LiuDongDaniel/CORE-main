@@ -1,0 +1,6 @@
+usage: prep_w_mask.py [-h] [--quality QUALITY] [--gpus GPUS]
+                      [--fake-type {Deepfakes,Face2Face,FaceSwap,NeuralTextures,DeepFakeDetection,real}]
+                      [--src-root SRC_ROOT] [--dst-root DST_ROOT]
+                      [--batch-szie BATCH_SZIE] [--max-num MAX_NUM]
+                      [--start START] [--end END]
+prep_w_mask.py: error: unrecognized arguments: ./log/faceswap.log
